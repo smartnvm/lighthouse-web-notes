@@ -1,7 +1,6 @@
 # AJ's Notes
-
-# This is an H1 header (largest)
-###### This is an H6 header (smallest)
+---
+#####[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ## Summary 
 
